@@ -1,0 +1,1 @@
+AutoRAG[ko,ja,gpu]>=0.3.5
