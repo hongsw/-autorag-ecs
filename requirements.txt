@@ -1,2 +1,2 @@
-AutoRAG[ko,ja,gpu]>=0.3.5
+AutoRAG[ko,ja,gpu]>=0.3.6
 pyyaml
